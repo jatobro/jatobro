@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Wordle-like web game
+- 🔭 I’m currently working on a implementing deep learning
 - 🌱 I’m currently learning JAX computing
 - 📫 How to reach me: jakob.tossebro@gmail.com
 - 😄 Pronouns: He/Him
