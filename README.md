@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my Computer Science masters thesis
+- 🔭 I’m currently working on the Hera Road application
 - 🌱 I’m currently learning Vim motions
 - 📫 How to reach me: jakob.tossebro@gmail.com
 - 😄 Pronouns: He/Him
